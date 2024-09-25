@@ -1,0 +1,1 @@
+ TaskKeeper - web application for managing tasks in a team. Users can create projects, add tasks to these projects, assign responsibilities, and track task statuses. This is necessary for teams that need to make a list of tasks, assign executors to these tasks, and set deadlines. 
